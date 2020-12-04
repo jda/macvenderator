@@ -8,3 +8,5 @@ edition = "2018"
 
 [dependencies]
 oui = "0.7"
+eui48 = "0.4"
+rustop = "^1.0"
